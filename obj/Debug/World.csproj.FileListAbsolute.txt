@@ -1,0 +1,6 @@
+C:\Users\jcorr_000\documents\visual studio 2017\Projects\World\World\bin\Debug\World.exe.config
+C:\Users\jcorr_000\documents\visual studio 2017\Projects\World\World\bin\Debug\World.exe
+C:\Users\jcorr_000\documents\visual studio 2017\Projects\World\World\bin\Debug\World.pdb
+C:\Users\jcorr_000\documents\visual studio 2017\Projects\World\World\obj\Debug\World.csprojResolveAssemblyReference.cache
+C:\Users\jcorr_000\documents\visual studio 2017\Projects\World\World\obj\Debug\World.exe
+C:\Users\jcorr_000\documents\visual studio 2017\Projects\World\World\obj\Debug\World.pdb
